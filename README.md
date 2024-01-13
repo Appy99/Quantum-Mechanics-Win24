@@ -20,7 +20,7 @@ Once Anaconda and the necessary packages are installed, and you can get jupyter 
 `sh Anaconda3-2022.10-Linux-x86_64.sh`  
 
 3. In the directory of your choice, clone this git repo:  
-`git clone https://github.com/ethanwyr/qc_intro`  
+`git clone https://github.com/Appy99/Quantum-Mechanics-Win24.git`  
 
 4. In the cloned git repo, create a virtual conda environment with python 3.9 and some of the required packages (`numpy`, `matplotlib`, `jupyter`, and `sympy`) by executing: 
 * Note this will take a while to complete the installation   
@@ -46,7 +46,7 @@ Once Anaconda and the necessary packages are installed, and you can get jupyter 
 
 2. Install Anaconda distribution by yourself. Or following this guide: https://docs.anaconda.com/anaconda/install/windows/
 
-3. In the directory of your choice, clone this git repo from https://github.com/ethanwyr/qc_intro by cliking on `Clone or download` and `Download ZIP`. 
+3. In the directory of your choice, clone this git repo from https://github.com/Appy99/Quantum-Mechanics-Win24 by clicking on `Clone or download` and `Download ZIP`. 
 
 4. From the Start menu, search for and open `Anaconda Prompt (Anaconda3)`, such as [link](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#starting-conda). Navigate to your chosen directory and get into qc_intro.  
 Change Drive: `D:` or `C:`  
